@@ -39,7 +39,7 @@ I thrive at the intersection of **mobile, web, and DevOps**, and I enjoy turning
 ## 📫 Connect With Me  
 
 - 🌐 Portfolio: [lekan1.github.io](https://lekan1.github.io)  
-- 💼 LinkedIn: [Abioye Yusuf](https://www.linkedin.com/in/abioye-yusuf/) *(replace with your actual LinkedIn link)*  
+- 💼 LinkedIn: [Abioye Yusuf](https://www.linkedin.com/in/y-abioye) 
 - 📧 Email: **abioyeyusuf17@gmail.com**  
 - 🐙 GitHub: [Lekan1](https://github.com/Lekan1)  
 
